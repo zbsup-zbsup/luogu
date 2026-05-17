@@ -1,9 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+int cow[300],pz[300];
+int mbs,nps,cows;
 int main()
 {
-    int a;
-    cin>>a;
-    cout<<"just test awa "<<endl;
-    return 0;
+    cin>>mbs>>nps>>cows;
+    for(int i=0;i<n;i++)
+    {
+        
+    }
 }

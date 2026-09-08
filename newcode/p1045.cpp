@@ -2,6 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<(0&1);
-    return 0;
+    //高精度不想做awa
 }
